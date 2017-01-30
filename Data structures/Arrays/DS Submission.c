@@ -1,3 +1,13 @@
+/*  
+
+    This code prints the elements of any array
+    in reverse order
+    
+    By Marcelo Cárdenas                 
+
+*/    
+
+
 #include <stdio.h>
 
 int main(){
